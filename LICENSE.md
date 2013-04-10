@@ -1,4 +1,3 @@
-
 Copyright © 2011-2012 Julius Oklamcak. All rights reserved.
 
 Permission is hereby granted, free of charge, to any person obtaining a copy
@@ -23,3 +22,7 @@ CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE SOFTWARE.
 iOS, iPad, iPhone, iPod touch are registered trademarks of Apple Inc.
 All other trademarks and service marks are the properties of their
 respective owners.
+
+jgjdfj 
+dfhk zb
+ zb
